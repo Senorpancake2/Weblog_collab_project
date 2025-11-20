@@ -6,12 +6,13 @@ line-height: 1.5;
 background-image:url("https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Good_Food_Display_-_NCI_Visuals_Online.jpg/1200px-Good_Food_Display_-_NCI_Visuals_Online.jpg") ;
 }
 
-h1,h2,h3,h4,table{
+h1,h2,h3,h4,table,p,ol,ul{
 
     text-align: left;
-    padding-left: 300px;
+    padding-left: 250px;
     
-
+    background-color: rgb(184, 86, 17);
+    margin-left: 250px;
+    margin-right: 100px;
     
 }
-
